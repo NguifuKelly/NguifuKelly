@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NguifuKelly
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ... data Science
-- 💞️ I’m looking to collaborate on ...Software development
+- 💞️ I’m looking to collaborate on ...Coding
 - 📫 How to reach me ...ngwatungnguifu@gmail.com
 
 <!---
